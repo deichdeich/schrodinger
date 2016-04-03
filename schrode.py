@@ -1,3 +1,12 @@
+"""
+Matplotlib Animation Example
+
+author: Jake Vanderplas
+email: vanderplas@astro.washington.edu
+website: http://jakevdp.github.com
+license: BSD
+"""
+
 import numpy as np
 from matplotlib import pyplot as pl
 from matplotlib import animation
